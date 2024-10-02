@@ -1,5 +1,4 @@
 import Contenue from "./componentBackOffice/Contenue";
-import Footer from "./componentBackOffice/Footer";
 import NavBar from "./componentBackOffice/NavBar";
 import SideBar from "./componentBackOffice/SideBar";
 
@@ -20,6 +19,7 @@ function App() {
       </div>
 
       <div className="footer">
+    
       
 
 
